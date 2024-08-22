@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Manga_search_app</string>
+    <string name="tv_search">search</string>
 </resources>

@@ -3,7 +3,9 @@ package jp.ac.it_college.std.s23014.manga_search_app
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.lifecycle.ReportFragment.Companion.reportFragment
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.bumptech.glide.Glide
 import jp.ac.it_college.std.s23014.manga_search_app.databinding.ActivityMainBinding
 import retrofit2.Call
 import retrofit2.Callback
