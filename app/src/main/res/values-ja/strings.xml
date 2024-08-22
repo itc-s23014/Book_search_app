@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Manga_search_app</string>
     <string name="tv_search">検索</string>
+    <string name="input_search">本のタイトルを入力</string>
 </resources>
