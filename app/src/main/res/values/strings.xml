@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Manga_search_app</string>
+    <string name="app_name">BookFinder</string>
     <string name="tv_search">search</string>
     <string name="input_search">" Enter book title"</string>
 </resources>
